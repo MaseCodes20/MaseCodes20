@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaseCodes20
-- 👀 I’m interested in metaverse
+- 👀 I’m interested in the metaverse
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any website or app!
 - 📫 How to reach me todd.k.mason@hotmail.com or @MaseCodes20 on Twitter
 
 <!---
