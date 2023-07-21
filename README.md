@@ -7,7 +7,7 @@ Frontend web developer
 I'm a self-taught frontend engineer currently based in NYC. I love traveling, taking photos and building websites. I'm self-motivated, organized and able to thrive in both team based and independent settings. I have a keen interest in frontend development, UI, UX, block chain technology and web3.
 
 * 🌍  I'm based in New York
-* 🖥️  See my portfolio at [masecodes.com](http://https://www.masecodes.com/)
+* 🖥️  See my portfolio at [masecodes.com](https://www.masecodes.com/)
 * ✉️  You can contact me at [todd.k.mason@gmail.com](mailto:todd.k.mason@gmail.com)
 * 🧠  I'm learning everything JavaScript
 
