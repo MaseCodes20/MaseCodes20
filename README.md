@@ -9,7 +9,7 @@ I'm a self-taught frontend engineer currently based in NYC. I love traveling, ta
 * 🌍  I'm based in New York
 * 🖥️  See my portfolio at [masecodes.com](https://www.masecodes.com/)
 * ✉️  You can contact me at [todd.k.mason@gmail.com](mailto:todd.k.mason@gmail.com)
-* 🧠  I'm learning everything JavaScript
+* 🧠  I'm learning everything React Native
 
   
 ### Skills
