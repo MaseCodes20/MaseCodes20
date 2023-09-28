@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Todd Mason
 ==================================================================================================================================
 
-Frontend web developer
+Software Engineer
 ----------------------
 
 I'm a self-taught frontend engineer currently based in NYC. I love traveling, taking photos and building websites. I'm self-motivated, organized and able to thrive in both team based and independent settings. I have a keen interest in frontend development, UI, UX, block chain technology and web3.
